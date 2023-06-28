@@ -6,3 +6,4 @@ pydub
 torch
 flask
 flask_cors
+assemblyai
